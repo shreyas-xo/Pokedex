@@ -1,5 +1,6 @@
 # Pokedex
-A vanilla Javascript project to display pokemons using PokeAPI.
+A vanilla Javascript project to display pokemons using PokeAPI.  
+
 Access the Pokedex at: https://shreyas-xo.github.io/Pokedex/
 
 ## Screenshot
